@@ -22,3 +22,5 @@ Unordered List
    * Fruitsalad
 * Non-Veg
    * Pastry
+
+[MyStats](MyStats.md)
