@@ -23,4 +23,4 @@ Unordered List
 * Non-Veg
    * Pastry
 
-[MyStats](MyStats.md)
+[MyStats.](MyStats.md)
