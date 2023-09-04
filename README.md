@@ -8,3 +8,6 @@ Mozingo lake is one of my fav vacation spots i have ever visited .It is my **Fir
 
 Ordered List
 ### Activities At Vacation Spot
+1.Taking Pictures of the Scenaries
+2.Playing with Water
+3.Enjoying Food
