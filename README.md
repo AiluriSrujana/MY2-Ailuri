@@ -23,7 +23,7 @@ Unordered List
 * Non-Veg
    * Pastry
 
-[MyStats.](MyStats.md)
+[MyStats..](MyStats.md)
 
 ### Sports
 |Name of the Sport|Reason|Hours Spent|
@@ -31,4 +31,17 @@ Unordered List
 | Badminton |It improves our Gut health |2 hours |
 | Tennekoit |It improves muscle Strength |2.5 hous|
 | Cycling   |It gives relaxation and good sleep|3 hours|
+
+---
+
+Pithy Quotes on Scientist
+
+> Intellectual growth should commence at birth and cease only at death.
+ >> *Einstein*
+
+> You have to dream before your dreams can come true
+>> *APJ Abdul Kalam*
+
+
+
 
