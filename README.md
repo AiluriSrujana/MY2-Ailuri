@@ -24,3 +24,11 @@ Unordered List
    * Pastry
 
 [MyStats.](MyStats.md)
+
+### Sports
+|Name of the Sport|Reason|Hours Spent|
+|-----------------|------|-----------|
+| Badminton |It improves our Gut health |2 hours |
+| Tennekoit |It improves muscle Strength |2.5 hous|
+| Cycling   |It gives relaxation and good sleep|3 hours|
+
