@@ -11,3 +11,14 @@ Ordered List
 1. Taking Pictures of the Scenaries.
 2. Playing with Water.
 3. Enjoying Food.
+
+---
+
+Unordered List
+### Food I Enjoy At Vacation Spot
+* Vegeterian 
+   * Indian Biryani
+   * Maggie
+   * Fruitsalad
+* Non-Veg
+   * Pastry
